@@ -1,0 +1,3 @@
+# -*- coding: utf-8 -*-
+access.group_noone,mi.modelo,none
+access.group_user,mi.modelo,read,write
